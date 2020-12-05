@@ -5,6 +5,13 @@ body {
   align-content: center;
 }
 
+.content {
+  margin: 5%;
+  padding:0;
+  text-align: center;
+  align-content: center;
+}
+
 h1, h2, h3, h4, h5, h6, p {
   color: black;
 }
