@@ -32,6 +32,6 @@ a:active {
 /* Button */
 .container {
   position: absolute;
-  right:    0;
+  right:    auto;
   bottom:   auto;
 }
