@@ -28,3 +28,15 @@ a:active {
   color: darkorange;
   text-decoration: underline;
 }
+
+/* Button */
+.container {
+  justify-content: space-between;
+  flex-direction: column;
+  height: 100vh;
+  display: flex;
+}
+.container .btn-holder {
+  justify-content: flex-end;
+  display: flex;
+}
