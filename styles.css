@@ -34,6 +34,13 @@ a:active {
   position: absolute;
   right:    0;
   bottom:   auto;
-  font-size: 70px;
+  font-size: 40px;
   padding: 5% 10%;
+}
+
+/*mobile ready*/
+@media (max-width: 800px) {
+  .container  {
+    font-size: 80px;
+  }
 }
